@@ -36,11 +36,15 @@
     cursor: pointer;
     margin: 10px;
 }
-form .display
+
+form .display 
 {
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    border: 2px solid #cbc9c3;
+    border-radius: 10px;
+    background-color: #3a4452;
 }
 form .display input
 {
